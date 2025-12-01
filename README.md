@@ -15,7 +15,7 @@ Una herramienta poderosa y versátil para organizar archivos automáticamente en
   - 🖼️ Imágenes (jpg, png, gif, bmp, svg, webp, tiff, ico)
   - 📄 Documentos (pdf, doc, docx, xls, xlsx, ppt, pptx, txt, rtf, odt, ods, odp)
   - 🎬 Vídeos (mp4, avi, mkv, mov, flv, wmv, webm, m4v, 3gp, mpg, mpeg)
-  - 🎵 Música (mp3, wav, flac, aac, ogg, wma, m4a, opus, aiff)
+  - 🎵 Música (mp3, wav, flac, aac, ogg, wma, m4a, opus, aiff, midi)
   - 📦 Comprimidos (zip, rar, 7z, tar, gz, bz2, iso)
   - ⚙️ Ejecutables (exe, msi, bat, sh, cmd, ps1, app, dmg)
   - 📋 Otros (extensiones no categorizadas)
