@@ -1,0 +1,108 @@
+﻿Diagnose log at 2025-12-01T00:12:35Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Kala
+POSH_INSTALLER=ws
+COMPUTERNAME=H3LL
+DriverData=C:\Windows\System32\Drivers\DriverData
+GIT_TRACE2_PARENT_SID=f18e1598-98ef-4dfa-8e66-08b82f3580cb
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Kala\OneDrive
+PYTHON_BASIC_REPL=1
+SESSIONNAME=Console
+PSExecutionPolicyPreference=Bypass
+LANG=es_ES.UTF-8
+TMP=C:\Users\Kala\AppData\Local\Temp
+PROCESSOR_REVISION=6102
+EFC_23048_3789132940=1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_ASKPASS=c:\Users\Kala\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+POWERSHELL_DISTRIBUTION_CHANNEL=PSES
+TEMP=C:\Users\Kala\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Kala\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+EFC_23048_2283032206=1
+POSH_THEMES_PATH=C:\Users\Kala\AppData\Local\Programs\oh-my-posh\themes\
+ENABLE_IDE_INTEGRATION=true
+USERDOMAIN=H3ll
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Kala\bin;C:\Program Files\WindowsApps\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe;c:\Users\Kala\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\Kala\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Windows\System32\AMD;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\watif\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\Kala\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\Kala\AppData\Local\Microsoft\WindowsApps;C:\Users\Kala\AppData\Local\Programs\Microsoft VS Code\bin;F:\SteamLibrary\steamapps\common\PUBG\TslGame\Binaries\Win64\;F:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\;F:\SteamLibrary\steamapps\common\World of Warships\;
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\Kala\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Kala\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TERM_PROGRAM_VERSION=1.106.3
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Kala\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-b8296a4568-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_33304_BCYPZLEKJLBUJDDK
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+CLAUDE_CODE_SSE_PORT=35737
+EFC_23048_1262719628=1
+EFC_23048_2775293581=1
+SystemRoot=C:\WINDOWS
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+PYTHONSTARTUP=c:\Users\Kala\AppData\Roaming\Code\User\workspaceStorage\a9195569b87b84dd1926085d7fc3e1a1\ms-python.python\pythonrc.py
+EFC_23048_1592913036=1
+HOME=C:\Users\Kala
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\H3LL
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=H3ll
+APPDATA=C:\Users\Kala\AppData\Roaming
+HOMEDRIVE=C:
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+PSModulePath=C:\Users\Kala\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\windowsapps\microsoft.powershell_7.5.4.0_x64__8wekyb3d8bbwe\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;c:\Users\Kala\.vscode\extensions\ms-vscode.powershell-2025.4.0\modules
+USERNAME=Kala
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+USERPROFILE=C:\Users\Kala
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\Kala\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Kala\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Kala\AppData\Local\Temp\f44340e889d990726a9f3344'... OK
+Reading from temporary file 'C:\Users\Kala\AppData\Local\Temp\f44340e889d990726a9f3344'... OK
+Deleting temporary file 'C:\Users\Kala\AppData\Local\Temp\f44340e889d990726a9f3344'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Kala
+UserDataDirectoryPath: C:\Users\Kala\.gcm
+GetCurrentDirectory(): F:\Organizador git\Organizador Fercho para Git
+
