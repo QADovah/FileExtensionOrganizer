@@ -311,7 +311,7 @@ function Get-FileType {
     if ($extension -match '^(mp4|avi|mkv|mov|flv|wmv|webm|m4v|3gp|mpg|mpeg)$') {
         return "Vídeos"
     }
-    if ($extension -match '^(mp3|wav|flac|aac|ogg|wma|m4a|opus|aiff)$') {
+    if ($extension -match '^(mp3|wav|flac|aac|ogg|wma|m4a|opus|aiff|midi)$') {
         return "Música"
     }
     if ($extension -match '^(zip|rar|7z|tar|gz|bz2|iso)$') {
